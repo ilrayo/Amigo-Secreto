@@ -1,3 +1,3 @@
 <h1> Desafio del Amigo Secreto </h1>
-  - En etapa de desarrollo .
+:construction: En etapa de inicio del desarrollo :construction:
   - inicio 21/2/2025.

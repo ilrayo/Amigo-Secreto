@@ -1,4 +1,4 @@
-
+// Otras pruebas de practica
 let amigo = [];
 
 function agregarAmigo(){
